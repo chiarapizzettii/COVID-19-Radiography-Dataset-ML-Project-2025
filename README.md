@@ -10,7 +10,7 @@ The project utilizes the widely recognized **COVID-19 Radiography Database**, wh
 - **COVID:** 3,616 images.
 - **Viral Pneumonia:** 1,345 images.
 - **Total:** 21,165 X-ray images.
-- 
+
 The dataset exhibits a clear class imbalance (with the Normal class being the most prevalent), which is addressed during the data processing and training phases.
 
 ## **Project Pipeline** ##
