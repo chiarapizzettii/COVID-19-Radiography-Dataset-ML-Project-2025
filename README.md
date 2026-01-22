@@ -14,10 +14,15 @@ The dataset exhibits a clear class imbalance (with the Normal class being the mo
 
 ## **Project Pipeline** ##
 **1. Dataset Setup:** Automatic download and directory restructuring to ensure compatibility with data generators (flattening nested subfolders).
+
 **2. Preprocessing:** Removal of segmentation masks to focus exclusively on the radiography images for classification.
+
 **3. Data Augmentation:** Applying transformations like rotations, zooms, and flips to enhance model generalization.
+
 **4. Model Architecture:** The notebook implements a deep neural network (e.g., ResNet50 or similar) using Transfer Learning to leverage pre-trained weights.
+
 **5. Training & Validation:** Optimization of hyperparameters and monitoring metrics such as Accuracy and Loss.
+
 **6. Evaluation:** Performance assessment using a Confusion Matrix and visualization of model predictions.
 
 ## **Technology Used**
