@@ -35,3 +35,10 @@ The dataset exhibits a clear class imbalance (with the Normal class being the mo
 
 ## **Results** ##
 The model effectively distinguishes viral pneumonia and COVID-19 from healthy lungs or other opacities. Detailed metrics and visualization of predictions (including horizontal bar charts of class probabilities) are included at the end of the notebook.
+
+## **How to Run** ##
+1. Clone the respository: `git clone https://github.com/tuo-username/covid19-radiography-dl.git`
+   
+2. Install dependencies: `pip install kagglehub pandas matplotlib seaborn torch torchvision`
+   
+3. Run the notebook
