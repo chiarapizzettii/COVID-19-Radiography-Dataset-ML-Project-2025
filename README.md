@@ -1,5 +1,5 @@
 # COVID-19 Radiography Dataset 
-Deep learning model used to classify chest X-ray images into COVID, Normal, Lung Opacity, and Viral Pneumonia categories, based on the COVID-19 Radiography Database.
+### *Author: Chiara Pizzetti*
 
 ## **Dataset** ##
 The project utilizes the widely recognized **COVID-19 Radiography Database**, which is automatically managed via `kagglehub`.
